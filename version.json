@@ -2,7 +2,6 @@
   "version": "1.0.0",
   "build": 100,
   "url": "https://hyperlitemedia.com/download/Spectra-Studio-1.0.0-mac.dmg",
-  "url_win": "https://hyperlitemedia.com/download/Spectra-Studio-1.0.0-win.exe",
   "notes": "Initial release.",
   "min_v1_build": 1,
   "v2_purchase_url": "https://hyperlitemedia.com/upgrade"
